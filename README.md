@@ -19,8 +19,8 @@
   - [Current State](#current-state)
   - [Future Work](#future-work)
   - [Links and Resources](#links-and-resources)
-  - [Resources](#resources)
   - [Datasets and Models](#datasets-and-models)
+  - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 **Project:** Robot Data Collection Improvement  
@@ -80,6 +80,8 @@ The project has been successfully completed with all core goals achieved:
 - **Dataset Expansion**: Collect larger, more diverse datasets across different tasks and robotic arms, and extend onto different robotic platforms.
 - **Extended Benchmarking**: Evaluate additional VLA and policy learning models beyond ACT, Groot, and Pi0.
 
+Feel free to fork the repository and submit pull requests. For major changes, please open an issue to discuss your ideas first. Contributions are always welcomed!
+
 ## Links and Resources
 
 - [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2025/projects/JzWj3E87)
@@ -87,8 +89,6 @@ The project has been successfully completed with all core goals achieved:
 - [My Merged Pull Requests](https://github.com/dora-rs/dora/pulls?q=is%3Amerged+is%3Apr+author%3AShashwatPatil+)
 - [YouTube Tutorial – Dataset Collection & Inference Demo](https://www.youtube.com/watch?v=jFP8UAtz4sg)
 - [GR00T and Openpi Pi0 Comparison](https://github.com/ShashwatPatil/VLA_model_comparision/blob/master/vla_model_comparison.md)
-
-## Resources
 
 ## Datasets and Models
 
@@ -100,3 +100,11 @@ The project has been successfully completed with all core goals achieved:
 
 **Evaluation Results for Pi0:** https://huggingface.co/SGPatil/eval_pi0_so101  
 **Evaluation Results for Gr00t:** https://huggingface.co/SGPatil/eval_groot_n1.5_so101
+
+## Acknowledgements
+
+I would like to express my heartfelt gratitude to my mentor **Haixuan Xavier Tao** for his invaluable guidance, continuous support, and insightful feedback throughout this GSoC journey. His expertise and encouragement were instrumental in making this project a success.
+
+Special thanks to the **Dora-rs community** and **Google Summer of Code** for making this work possible.
+
+I’m grateful to the open-source community for their contributions and feedback throughout this project, and I hope the outcomes will serve as a foundation that others can build on to advance accessible robotics research.
